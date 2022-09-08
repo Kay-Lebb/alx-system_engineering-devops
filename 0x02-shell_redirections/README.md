@@ -3,3 +3,4 @@ Displays the content of a file
 Displays two files
 Displays last 10 lines of a file
 Displays first 10 lines of a file
+Displays the third line of a file
